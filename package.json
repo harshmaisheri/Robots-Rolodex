@@ -1,6 +1,6 @@
 {
-  "name": "robofriends",
-  "homepage": "https://rusty-jnr.github.io/robofriends",
+  "name": "robots-rolodex",
+  "homepage": "https://harshmaisher.github.io/Robots-Rolodex",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
